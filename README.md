@@ -1,3 +1,10 @@
+Images:
+![image](https://github.com/sr2005roy/car_hub/assets/122456380/5392ce8b-b12a-43b4-b6b6-7f8b9181d987)
+![image](https://github.com/sr2005roy/car_hub/assets/122456380/33211067-9a74-401d-b8d4-a7b55fa580e4)
+![image](https://github.com/sr2005roy/car_hub/assets/122456380/b527f937-a9c0-4208-94f4-9f70e87271e2)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
